@@ -24,4 +24,4 @@ Configuring in `appveyor.yml`:
         secure: m49OJ7+Jdt9an3jPcTukHA==
       skip_symbols: false
       symbol_server:           # remove to push symbols to SymbolSource.org
-      artifact: /.*\.nupkg/
+      artifacts: /.*\.nupkg/
